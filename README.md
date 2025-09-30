@@ -36,7 +36,7 @@ The 23 AI LLM models evaluated are (including costs for usage):
 * KiloCode Code-Supernova              $0.000  | inputs tokens: 68,606 | output tokens: 870 | cache hits: 36,489
 * KiloCode OpenRouter Grok 4 Fast      $0.000  | inputs tokens: 35,828 | output tokens: 404 | cache hits: 36,489
 * Kilo Code DeepSeek V3.2 Exp          $0.01   | inputs tokens: 42,836 | output tokens: 1,730 | cache hits: 0
-* Kilo Code Gemini 2.5 Flash 09-2025   $0.03   | inputs tokens: 92,948118 | output tokens: 4,648 | cache hits: 50,116
+* Kilo Code Gemini 2.5 Flash 09-2025   $0.03   | inputs tokens: 92,948 | output tokens: 4,648 | cache hits: 50,116
 * Kilo Code Gemini 2.5 Flash Lite 09-2025   $0.01  | inputs tokens: 52,039 | output tokens: 3,115 | cache hits: 12,274
 
 **Note:**
